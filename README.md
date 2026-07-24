@@ -1,11 +1,11 @@
 # London Weather Table (Pure HTML Practice)
 
 ## Project Overview
-This project was built to practice core HTML table elements (`<table>`, `<tr>`, `<th>`, `<td>`). I converted AI-generated weather data into a structured 8-row forecast dashboard.
+This project was built to practice core HTML table elements (`<table>`, `<tr>`, `<th>`, `<td>`) and color formatting using `style` attributes and `bgcolor`. I converted AI-generated weather data into a structured 8-row forecast dashboard.
 
 ## Key Takeaways & Reflection
 * **Planning First:** Before coding, I drafted the entire logic and color plan in advance. Learning from my previous project, this pre-planning step resulted in significantly fewer errors.
-* **Styling Challenges:** Since inline formatting attributes like `bgcolor` are deprecated and styling is standardly handled via CSS, tweaking the look purely in HTML was time-consuming and took around 90 minutes.
+* **Styling Challenges:** For all color formatting, I specifically relied on `style` attributes and legacy `bgcolor` attributes. Tweaking the look purely in HTML was time-consuming and took around 90 minutes.
 * **Design Iterations:** Although the final color palette didn't turn out as visually appealing as planned, the focus was strictly on mastering structural logic—and my code structure improved dramatically compared to earlier attempts.
 
 ---
